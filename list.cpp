@@ -1,5 +1,5 @@
 //Filename: list.cpp
-//Author:  Matt Sguerri
+//Author:  EsquireAtLarge
 //Date written: April 29th, 2008
 //Class description:  Contains function definitions for list.h file.
 //Function definitions to determine if list is empty or full, and if the 

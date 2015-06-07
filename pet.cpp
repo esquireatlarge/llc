@@ -1,5 +1,5 @@
 //Filename:  pet.cpp
-//Author:  Matt Sguerri
+//Author:  EsquireAtLarge
 //Datewritten:  02/14/08 Valentine's Day
 //Class description:
 

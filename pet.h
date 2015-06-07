@@ -1,5 +1,5 @@
 //Filename: pet.h
-//Author:  Matt Sguerri
+//Author:  EsquireAtLarge
 //Date written:  02/14/08 Valentine's Day
 //Class description:  Stores information about pets...
 #pragma once

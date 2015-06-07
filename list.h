@@ -1,5 +1,5 @@
 //Filename:  list.h
-//Author:  Matt Sguerri
+//Author:  EsquireAtLarge
 //Date written:  April 29th, 2008
 //Class description:  Contains function declarations for list containing
 //items.

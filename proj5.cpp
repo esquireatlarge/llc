@@ -1,5 +1,5 @@
 //Filename:  proj5.cpp
-//Author:  Matt Sguerri
+//Author:  EsquireAtLarge
 //Date written: February 11th, 2008
 //Program Description:  Allows entry of items and displays
 // of a list of items. Also allows for entry
